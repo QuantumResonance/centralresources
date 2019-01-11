@@ -1,0 +1,60 @@
+Energy Grid Upgrades II
+Energy Grid Upgrades III
+Propulsion Jamming II
+Propulsion Jamming III
+Signature Analysis II
+Signature Analysis III
+Signature Analysis IV
+Evasive Maneuvering II
+Evasive Maneuvering III
+EM Armor Compensation I
+Explosive Armor Compensation I
+Kinetic Armor Compensation I
+Thermal Armor Compensation I
+EM Shield Compensation I
+Explosive Shield Compensation I
+Kinetic Shield Compensation I
+Thermal Shield Compensation I
+Social I
+Contracting I
+Contracting II
+Biology I
+Capacitor Systems Operation IV
+Capacitor Systems Operation V
+Capacitor Management IV
+Capacitor Management V
+Energy Grid Upgrades IV
+EM Armor Compensation II
+Explosive Armor Compensation II
+Kinetic Armor Compensation II
+Thermal Armor Compensation II
+EM Shield Compensation II
+Explosive Shield Compensation II
+Kinetic Shield Compensation II
+Thermal Shield Compensation II
+Electronics Upgrades IV
+Power Grid Management V
+CPU Management V
+Electronics Upgrades V
+EM Armor Compensation III
+Explosive Armor Compensation III
+Kinetic Armor Compensation III
+Thermal Armor Compensation III
+EM Shield Compensation III
+Explosive Shield Compensation III
+Kinetic Shield Compensation III
+Thermal Shield Compensation III
+Energy Grid Upgrades V
+Advanced Weapon Upgrades I
+Advanced Weapon Upgrades II
+Advanced Weapon Upgrades III
+Explosive Armor Compensation IV
+Kinetic Armor Compensation IV
+Thermal Armor Compensation IV
+EM Shield Compensation IV
+Explosive Shield Compensation IV
+Kinetic Shield Compensation IV
+Thermal Shield Compensation IV
+Advanced Weapon Upgrades IV
+Weapon Upgrades V
+Advanced Weapon Upgrades V

@@ -1,0 +1,37 @@
+Drones I
+Drones II
+Drones III
+Caldari Frigate I
+Gallente Frigate I
+Caldari Frigate II
+Gallente Frigate II
+Caldari Frigate III
+Caldari Destroyer I
+Gallente Frigate III
+Gallente Destroyer I
+Gallente Destroyer II
+Drones VI
+Drones V
+Drone Interfacing I
+Drone Interfacing II
+Drone Interfacing III
+Drones VI
+Drones V
+Drone Interfacing I
+Drone Interfacing II
+Drone Interfacing III
+EM Shield Compensation I
+Explosive Shield Compensation I
+Kinetic Shield Compensation I
+Thermal Shield Compensation I
+EM Shield Compensation II
+Explosive Shield Compensation II
+Kinetic Shield Compensation II
+Thermal Shield Compensation II
+Caldari Destroyer II
+Gallente Destroyer III
+Gallente Cruiser I
+Gallente Cruiser II
+Caldari Destroyer III
+Caldari Cruiser I
+Caldari Cruiser II

@@ -1,0 +1,107 @@
+Propulsion Jamming II
+Propulsion Jamming III
+Signature Analysis II
+Signature Analysis III
+Signature Analysis IV
+Evasive Maneuvering II
+Evasive Maneuvering III
+Social I
+Contracting I
+Biology I
+Cybernetics II
+Cybernetics III
+Infomorph Psychology I
+Gallente Industrial II
+Tactical Shield Manipulation III
+Shield Upgrades III
+High Speed Maneuvering II
+Energy Grid Upgrades II
+Capacitor Emission Systems I
+Target Management III
+Warp Drive Operation II
+Caldari Frigate I
+Caldari Frigate II
+Caldari Frigate III
+Electronic Warfare II
+Electronic Warfare III
+Long Distance Jamming I
+Long Distance Jamming II
+Long Distance Jamming III
+Sensor Linking I
+Sensor Linking II
+Sensor Linking III
+Long Distance Jamming IV
+High Speed Maneuvering III
+Acceleration Control I
+Acceleration Control II
+Acceleration Control III
+Hull Upgrades III
+Fuel Conservation I
+Fuel Conservation II
+Fuel Conservation III
+Weapon Disruption I
+Weapon Disruption II
+Weapon Disruption III
+Drones II
+Drones III
+Light Drone Operation I
+Light Drone Operation II
+Light Drone Operation III
+Electronics Upgrades IV
+Energy Grid Upgrades III
+Energy Grid Upgrades IV
+Thermodynamics II
+Thermodynamics III
+Long Range Targeting II
+Long Range Targeting III
+Long Range Targeting IV
+Minmatar Frigate I
+Minmatar Frigate II
+Minmatar Frigate III
+Target Painting I
+Target Painting II
+Target Painting III
+Caldari Destroyer I
+Small Hybrid Turret IV
+Small Hybrid Turret V
+Small Railgun Specialization I
+Small Railgun Specialization II
+Small Railgun Specialization III
+Motion Prediction III
+Small Blaster Specialization I
+Small Blaster Specialization II
+Small Blaster Specialization III
+Surgical Strike II
+Trajectory Analysis II
+Controlled Bursts III
+Repair Systems II
+Repair Systems III
+Spaceship Command IV
+Capacitor Systems Operation IV
+Weapon Upgrades III
+Weapon Upgrades IV
+Fuel Conservation IV
+CPU Management V
+Weapon Disruption IV
+Capacitor Management IV
+Weapon Destabilization I
+Weapon Destabilization II
+Weapon Destabilization III
+Target Painting IV
+Signature Focusing I
+Signature Focusing II
+Signature Focusing III
+Cloaking I
+Cloaking II
+Cloaking III
+Mechanics III
+Mechanics IV
+Hull Upgrades IV
+Infomorph Psychology II
+Infomorph Psychology III
+Infomorph Psychology IV
+Infomorph Synchronizing I
+Infomorph Synchronizing II
+Infomorph Synchronizing III
+Spaceship Command V
+Evasive Maneuvering IV
