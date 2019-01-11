@@ -1,6 +1,7 @@
 Drones I
 Drones II
 Drones III
+Medium Drone Operation I
 Caldari Frigate I
 Gallente Frigate I
 Caldari Frigate II
@@ -14,11 +15,8 @@ Drones VI
 Drones V
 Drone Interfacing I
 Drone Interfacing II
-Drone Interfacing III
-Drones VI
-Drones V
-Drone Interfacing I
-Drone Interfacing II
+Medium Drone Operation II
+Medium Drone Operation III
 Drone Interfacing III
 EM Shield Compensation I
 Explosive Shield Compensation I
