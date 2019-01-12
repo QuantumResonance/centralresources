@@ -29,9 +29,11 @@ Tactical Shield Manipulation II
 Shield Upgrades III
 Tactical Shield Manipulation III
 Shield Upgrades IV
+Hull Upgrades III
 Tactical Shield Manipulation IV
 Medium Drone Operation III
 Drone Interfacing III
+Hull Upgrades VI
 EM Shield Compensation I
 Explosive Shield Compensation I
 Kinetic Shield Compensation I
@@ -64,7 +66,11 @@ Ammar Battlecruiser I
 Ammar Battlecruiser II
 Ammar Battlecruiser III
 Ammar Battleship I
+Remote Armor Repair Systems I
+Remote Armor Repair Systems II
+Remote Armor Repair Systems III
 Light Missiles II
 Light Missiles III
 Light Missiles IV
 Light Missiles V
+Hull Upgrades V
