@@ -1,7 +1,13 @@
 Drones I
+Light Drone Operation I
 Drones II
+Shield Upgrades I
+Tactical Shield Manipulation I
 Drones III
 Medium Drone Operation I
+Medium Drone Operation II
+Missile Launcher Opperation I
+Light Missiles I
 Caldari Frigate I
 Gallente Frigate I
 Ammar Frigate I
@@ -14,9 +20,16 @@ Gallente Destroyer I
 Gallente Destroyer II
 Drones VI
 Drones V
+Heavy Drone Operation I
 Drone Interfacing I
 Drone Interfacing II
 Medium Drone Operation II
+Shield Upgrades II
+Tactical Shield Manipulation II
+Shield Upgrades III
+Tactical Shield Manipulation III
+Shield Upgrades IV
+Tactical Shield Manipulation IV
 Medium Drone Operation III
 Drone Interfacing III
 EM Shield Compensation I
@@ -51,3 +64,7 @@ Ammar Battlecruiser I
 Ammar Battlecruiser II
 Ammar Battlecruiser III
 Ammar Battleship I
+Light Missiles II
+Light Missiles III
+Light Missiles IV
+Light Missiles V
