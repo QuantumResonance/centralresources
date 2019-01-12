@@ -17,4 +17,11 @@ Mining Frigate IV
 Cloaking II
 Cloaking III
 Cloaking IV
+Electronics Upgrades III
+Industry III
 Mining Frigate V
+Electronics Upgrades IV
+Electronics Upgrades V
+Industry IV
+Industry V
+Expedition Frigates I
