@@ -4,6 +4,7 @@ Drones III
 Medium Drone Operation I
 Caldari Frigate I
 Gallente Frigate I
+Ammar Frigate I
 Caldari Frigate II
 Gallente Frigate II
 Caldari Frigate III
@@ -33,3 +34,20 @@ Gallente Cruiser II
 Caldari Destroyer III
 Caldari Cruiser I
 Caldari Cruiser II
+Gallente Cruiser III
+Gallente Battlecruiser I
+Gallente Battlecruiser II
+Gallente Battlecruiser III
+Gallente Battleship I
+Ammar Frigate II
+Ammar Frigate III
+Ammar Destroyer I
+Ammar Destroyer II
+Ammar Destroyer III
+Ammar Cruiser I
+Ammar Cruiser II
+Ammar Cruiser III
+Ammar Battlecruiser I
+Ammar Battlecruiser II
+Ammar Battlecruiser III
+Ammar Battleship I
