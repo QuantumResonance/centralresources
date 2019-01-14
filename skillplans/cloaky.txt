@@ -22,4 +22,21 @@ Electronics Upgrades V
 Covert Ops I
 Covert Ops II
 Covert Ops III
+Missile Launcher Operation II
+Missile Launcher Operation III
+Light Missiles I
+Light Missiles II
+Light Missiles III
+Missile Launcher Operation IV
+Heavy Missiles I
+Heavy Missiles II
+Heavy Missiles III
+Torpedos I
+Torpedos II
+Torpedos III
+Missile Bombardment I
+Missile Bombardment II
+Missile Bombardment III
+Missile Bombardment IV
+Bomb Deployment I
 Covert Ops IV
