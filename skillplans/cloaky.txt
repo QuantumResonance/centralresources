@@ -1,0 +1,25 @@
+Gallente Frigate I
+Ammar Frigate I
+Archeology I
+Electronics Upgrades IV
+Electronics Upgrades V
+Cloaking I
+Cloaking II
+Archeology II
+Gallente Frigate II
+Ammar Frigate II
+Astrometrics II
+Ammar Frigate III
+Gallente Frigate III
+Archeology III
+Astrometrics III
+Astrometrics IV
+Amarr Frigate IV
+Amarr Frigate V
+Electronics Upgrades III
+Electronics Upgrades IV
+Electronics Upgrades V
+Covert Ops I
+Covert Ops II
+Covert Ops III
+Covert Ops IV
