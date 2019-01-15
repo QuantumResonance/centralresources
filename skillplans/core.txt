@@ -1,3 +1,9 @@
+Electronics Upgrades IV
+Electronics Upgrades V
+Cloaking I
+Cloaking II
+Cloaking III
+Cloaking IV
 Energy Grid Upgrades II
 Energy Grid Upgrades III
 Propulsion Jamming II
@@ -32,10 +38,8 @@ EM Shield Compensation II
 Explosive Shield Compensation II
 Kinetic Shield Compensation II
 Thermal Shield Compensation II
-Electronics Upgrades IV
 Power Grid Management V
 CPU Management V
-Electronics Upgrades V
 EM Armor Compensation III
 Explosive Armor Compensation III
 Kinetic Armor Compensation III
