@@ -5,13 +5,15 @@ Electronics Upgrades IV
 Electronics Upgrades V
 Cloaking I
 Cloaking II
-Archeology II
+Archaeology II
 Gallente Frigate II
 Ammar Frigate II
 Astrometrics II
 Ammar Frigate III
+Cloaking III
+Cloaking IV
 Gallente Frigate III
-Archeology III
+Archaeology III
 Astrometrics III
 Astrometrics IV
 Amarr Frigate IV

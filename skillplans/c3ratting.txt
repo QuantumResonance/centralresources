@@ -50,27 +50,3 @@ Caldari Destroyer III
 Caldari Cruiser I
 Caldari Cruiser II
 Gallente Cruiser III
-Gallente Battlecruiser I
-Gallente Battlecruiser II
-Gallente Battlecruiser III
-Gallente Battleship I
-Ammar Frigate II
-Ammar Frigate III
-Ammar Destroyer I
-Ammar Destroyer II
-Ammar Destroyer III
-Ammar Cruiser I
-Ammar Cruiser II
-Ammar Cruiser III
-Ammar Battlecruiser I
-Ammar Battlecruiser II
-Ammar Battlecruiser III
-Ammar Battleship I
-Remote Armor Repair Systems I
-Remote Armor Repair Systems II
-Remote Armor Repair Systems III
-Light Missiles II
-Light Missiles III
-Light Missiles IV
-Light Missiles V
-Hull Upgrades V
