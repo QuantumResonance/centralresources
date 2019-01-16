@@ -20,8 +20,8 @@ Gallente Destroyer I
 Gallente Destroyer II
 Drones VI
 Drones V
-Heavy Drone Operation I
 Drone Interfacing I
+Heavy Drone Operation I
 Drone Interfacing II
 Medium Drone Operation II
 Shield Upgrades II
@@ -50,3 +50,7 @@ Caldari Destroyer III
 Caldari Cruiser I
 Caldari Cruiser II
 Gallente Cruiser III
+Light Missiles II
+Light Missiles III
+Light Missiles IV
+Light Missiles V

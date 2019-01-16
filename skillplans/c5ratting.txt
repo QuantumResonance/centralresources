@@ -1,3 +1,11 @@
+Drones I
+Drones II
+Drones III
+Drones IV
+Hull Upgrades VI
+Drones V
+Heavy Drone Operation I
+Heavy Drone Operation II
 Gallente Frigate II
 Gallente Frigate III
 Gallente Destroyer I
@@ -22,11 +30,19 @@ Gallente Battleship I
 Ammar Battlecruiser II
 Ammar Battlecruiser III
 Ammar Battleship I
+EM Armor Compensation I
+Explosive Armor Compensation I
+Kinetic Armor Compensation I
+Thermal Armor Compensation I
+EM Armor Compensation I
+Explosive Armor Compensation II
+Kinetic Armor Compensation II
+Thermal Armor Compensation II
 Remote Armor Repair Systems I
 Remote Armor Repair Systems II
 Remote Armor Repair Systems III
-Light Missiles II
-Light Missiles III
-Light Missiles IV
-Light Missiles V
+EM Armor Compensation III
+Explosive Armor Compensation III
+Kinetic Armor Compensation III
+Thermal Armor Compensation III
 Hull Upgrades V
